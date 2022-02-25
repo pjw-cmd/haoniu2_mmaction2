@@ -1,0 +1,2 @@
+# haoniu2_mmaction2
+haoniu2项目的算法中，动作识别算法使用了mmaction2的poseC3d的训练模型
